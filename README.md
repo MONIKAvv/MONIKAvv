@@ -41,7 +41,7 @@ _(More projects coming soon…)_
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/monika-kumari-031041236/)
+- 📧 Email: monikasoftwaredev@gmail.com
 
 ⭐ Feel free to explore my repositories and give a star if you like my work!
